@@ -9,8 +9,7 @@
 
 
 👨‍💻 Atuando  na [A3Data](https://a3data.com.br/) como Analista de Dados . <br />
-🎓 Formado em Gestão da Tecnologia da Informação, com especialização em business intelligence. <br />
-🌱 Continuo me especializando na área de gestão de processos e equipes de alta performance. <br />
+🎓 Formado em Gestão da Tecnologia da Informação, com especialização em business intelligence, gestão de processos e gestão de equipes de alta performance. <br />
 
 #### Frameworks, Platforms and Libraries 📚
 
