@@ -8,7 +8,7 @@
 </br>
 
 
-👨‍💻 Atuando  na [Teccel energia Solar]() como Analista de Dados . <br />
+👨‍💻 Atuando  na [JAT Consultoria]() como Analista de Processos . <br />
 🎓 Formado em Gestão da Tecnologia da Informação, com especialização em business intelligence, gestão de processos e gestão de equipes de alta performance. <br />
 
 #### Frameworks, Platforms and Libraries 📚
